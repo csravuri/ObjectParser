@@ -1,0 +1,7 @@
+D:\WhoKnows\Courses\Applications\ObjectParser\CsharpParser\bin\Debug\CsharpParser.exe.config
+D:\WhoKnows\Courses\Applications\ObjectParser\CsharpParser\bin\Debug\CsharpParser.exe
+D:\WhoKnows\Courses\Applications\ObjectParser\CsharpParser\bin\Debug\CsharpParser.pdb
+D:\WhoKnows\Courses\Applications\ObjectParser\CsharpParser\obj\Debug\CsharpParser.csprojAssemblyReference.cache
+D:\WhoKnows\Courses\Applications\ObjectParser\CsharpParser\obj\Debug\CsharpParser.csproj.CoreCompileInputs.cache
+D:\WhoKnows\Courses\Applications\ObjectParser\CsharpParser\obj\Debug\CsharpParser.exe
+D:\WhoKnows\Courses\Applications\ObjectParser\CsharpParser\obj\Debug\CsharpParser.pdb
